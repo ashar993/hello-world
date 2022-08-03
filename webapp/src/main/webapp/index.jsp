@@ -3,8 +3,8 @@
 <title>  
 Registration Page  
 </title>  
-</head>  
-<body bgcolor="Lightskyblue">  
+</head> 
+<body bgcolor="yellow">  
 <br>  
 <br>  
 <form>  
